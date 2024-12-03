@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+*.out
+*.o
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
